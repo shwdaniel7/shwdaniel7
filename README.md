@@ -150,6 +150,6 @@ Themed Interface   → custom GUI with animated visuals
 
 <br>
 
-`built with curiosity.`
+`wired.`
 
 </div>
