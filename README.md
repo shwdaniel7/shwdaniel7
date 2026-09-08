@@ -136,9 +136,11 @@ Themed Interface   → custom GUI with animated visuals
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=shwdaniel7)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shwdaniel7&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=shwdaniel7&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 </div>
+
+
 
 ---
 
