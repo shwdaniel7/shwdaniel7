@@ -2,7 +2,7 @@
 
 # DANIEL
 
-### `IT • CYBERSECURITY • LINUX • SYSTEMS`
+### `IT • CYBERSECURITY • LINUX • PYTHON`
 
 <img src="assets/gif.gif" width="500">
 
@@ -12,12 +12,12 @@
 
 ## `> whoami`
 
-I'm an **ADS student** and **IT Support intern** focused on **cybersecurity, systems and infrastructure**.
+I'm an **ADS student** and **IT Support intern** focused on **cybersecurity, systems and software development**.
 
-I'm currently building my foundations in Linux, networking,
-Python and computer systems, with the goal of moving deeper
-into cybersecurity and understanding how systems work beneath
-the abstractions.
+I'm currently building security-oriented applications
+in Python, exploring malware analysis, OSINT, automation
+and security tooling while strengthening my foundations
+in Linux and computer systems.
 
 ```text
 $ cat focus.txt
@@ -25,15 +25,15 @@ $ cat focus.txt
 PRIMARY FOCUS
 > Cybersecurity
 
+DEVELOPMENT
+> Python
+> Security Tooling
+> Automation
+
 FOUNDATIONS
 > Linux
 > Networking
 > Computer Systems
-
-TOOLS
-> Python
-> Bash
-> Git
 ```
 
 ---
@@ -42,11 +42,11 @@ TOOLS
 
 ### Languages & Development
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Systems & Infrastructure
 
@@ -54,11 +54,12 @@ TOOLS
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 
-### Backend & Database
+### Security Tooling
 
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-111111?style=for-the-badge\&logo=virustotal\&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-111111?style=for-the-badge\&logoColor=white)
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-111111?style=for-the-badge\&logoColor=white)
+![Security Automation](https://img.shields.io/badge/Security_Automation-111111?style=for-the-badge\&logoColor=white)
 
 ---
 
@@ -68,19 +69,19 @@ TOOLS
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  CYBERSECURITY                               │
-│  └─ security fundamentals · analysis        │
+│  └─ security fundamentals · malware analysis│
 │                                              │
-│  NETWORKING                                  │
-│  └─ TCP/IP · protocols · infrastructure     │
+│  PYTHON                                      │
+│  └─ automation · tooling · security apps    │
+│                                              │
+│  OSINT                                       │
+│  └─ reconnaissance · username research      │
 │                                              │
 │  LINUX                                      │
 │  └─ systems · processes · filesystem        │
 │                                              │
-│  PYTHON                                      │
-│  └─ programming · automation · tooling      │
-│                                              │
-│  COMPUTER SYSTEMS                            │
-│  └─ architecture · OS · low-level concepts │
+│  SOFTWARE ENGINEERING                        │
+│  └─ architecture · APIs · CLI · GUI         │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
