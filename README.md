@@ -133,6 +133,30 @@ Themed Interface   → custom GUI with animated visuals
 
 ---
 
+### [`03 / DS-001`](https://github.com/shwdaniel7/minecraft-mod-java-loader-analysis)
+
+**Fake Minecraft Mod Loader — Threat Research Case Study**
+
+An end-to-end investigation of a Discord social engineering campaign
+targeting Minecraft players and the static analysis of its obfuscated
+Java malware loader.
+
+```text
+Social Engineering  → Discord-based delivery & attacker TTPs
+Static Analysis     → JAR inspection & Java reverse engineering
+Malware Analysis    → obfuscation, encryption & execution flow
+Threat Intelligence → IOCs & MITRE ATT&CK mapping
+Detection           → example YARA rule
+Technical Writeup   → investigation dossier & GitHub Pages report
+```
+
+**Java · Static Analysis · Malware Research · Threat Intelligence · YARA**
+
+> A real-world malware investigation focused on reverse engineering, threat intelligence and detection.
+
+
+---
+
 ## `> github`
 
 <div align="center">
